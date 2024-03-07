@@ -1,0 +1,9 @@
+dao = data annotation object
+needs @repository and @transactional annotations
+@repository is specialized annotation for repositories, supports component scanning, translates JDBC exceptions
+class vs interface: class is used to describe behavior of objects in a program, whereas interface will carry those behaviors
+interface can only have public, static, final variables
+interface when objects carry data around, classes act on data by implementing instance specific functions with default values
+REST API call
+REST = REpresentational State Transfer
+communication between applications
