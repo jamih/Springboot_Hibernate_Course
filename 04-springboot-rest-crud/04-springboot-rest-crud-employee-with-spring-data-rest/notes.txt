@@ -1,0 +1,2 @@
+Service layer allows integration of multiple data sources
+provides controller with a single view of the data that we integrated from multiple backend datasources

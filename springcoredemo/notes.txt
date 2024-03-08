@@ -1,5 +1,0 @@
-hibernate is a framework for persisting and saving Java objects in a database
-JPA is a standard API for object to relational mapping
-Hibernate and JPA uses JDBC for all DB communications
-JDBC is java database connectivity
-

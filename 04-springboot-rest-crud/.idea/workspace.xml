@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc6a25ea-715d-4761-9e9f-20aa98cd4ae5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/src/main/java/com/luv2code/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/src/main/java/com/luv2code/springcoredemo/common/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/src/main/java/com/luv2code/springcoredemo/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/src/main/java/com/luv2code/springcoredemo/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/src/main/java/com/luv2code/springcoredemo/common/SwimCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/src/main/java/com/luv2code/springcoredemo/common/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/src/main/java/com/luv2code/springcoredemo/common/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/src/main/java/com/luv2code/springcoredemo/config/SportConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/src/main/java/com/luv2code/springcoredemo/rest/DemoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoredemo/src/test/java/com/luv2code/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2dMo5GkoNX6vpiyp66JJWpTWoDr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DemoApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.demo.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc6a25ea-715d-4761-9e9f-20aa98cd4ae5" name="Changes" comment="" />
+      <created>1709827122336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709827122336</updated>
+    </task>
+    <servers />
+  </component>
+</project>
